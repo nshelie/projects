@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Hero Section */
+/* .hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../images/christopher-gower-m_HRfLhgABo-unsplash.jpg");
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  color: #fff;
+} */
+.hero {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+  color: #fff;
+  transition: background-image 1s ease-in-out;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+  color: #00ffd5;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background: #00ffd5;
+  color: #000;
+  padding: 12px 25px;
+  border: none;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background: #02d9b5;
+}
+
+/* About Section */
+.about {
+  padding: 60px 20px;
+  background: #f9f9f9;
+  text-align: center;
+  /* background-color: #000; */
+}
+
+.about h2 {
+  margin-bottom: 20px;
+  color: #004466;
+  /* color: #fff; */
+  /* font-weight: bold; */
+}
+
+.about p {
+  background-color: #f0f4f8;
+  /* border-left: 5px solid #3498db; */
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #333;
+  /* font-weight: bold; */
+  line-height: 1.6;
+  /* max-width: 800px; */
+}
+
+/* Features Section */
+.features {
+  padding: 60px 20px;
+  background: #fff;
+  text-align: center;
+}
+
+.features h2 {
+  margin-bottom: 40px;
+}
+
+.feature-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.feature-card {
+  background: #f0f0f0;
+  padding: 30px;
+  border-radius: 10px;
+  width: 280px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact */
+.contact {
+  padding: 60px 20px;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+
+.contact h2 {
+  margin-bottom: 20px;
+}
+
+/* Footer */
+.footer {
+  background: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 15px;
+}
+/* Hamburger icon */
+.menu-toggle {
+  display: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #fff;
+}
+
+/* Responsive nav */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 70px;
+    right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+}
+
+/* Signup Form Styling
+.form-container {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  max-width: 400px;
+  margin: 120px auto;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.form-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 12px 15px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-container button {
+  width: 100%;
+  background: #00ffd5;
+  color: #000;
+  padding: 12px;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.form-container button:hover {
+  background: #02d9b5;
+}
+
+.form-message {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+Active link indicator
+.nav-links .active-link {
+  color: #00ffd5; 
+}*/
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-img {
+  height: 40px;
+  width: auto;
+  border-radius: 30px;
+}
+
+.logo-text {
+  font-size: 26px;
+  font-weight: bold;
+  color: white;
+}
+
+.highlight {
+  color: #ffc107;
+}
