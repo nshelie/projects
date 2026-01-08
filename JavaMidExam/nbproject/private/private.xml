@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/model/Student.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/StudentHomePanel.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/SubjectPage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/CareerRolePage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/CompanyPage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/CareerRoleDao.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/PerformancePage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/StudentPerformancePage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/StudentDao.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/SubjectDao.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/CompanyDao.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/service/gali.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/LoginForm.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/RecommendationPage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/StudentDashboard.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/AdminDashboard.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/view/StudentPage.java</file>
+            <file>file:/C:/Users/elie/Pictures/JavaMidExam1/src/dao/PerformanceDao.java</file>
+        </group>
+    </open-files>
+</project-private>
