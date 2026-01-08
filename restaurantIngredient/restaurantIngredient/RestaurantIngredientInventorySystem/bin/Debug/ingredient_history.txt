@@ -1,0 +1,4 @@
+[2025-12-16 04:22] Added Ingredient: carrot
+[2025-12-16 06:35] Added Ingredient: Tomato (Vegetable), Qty 20 at 200.00
+[2025-12-16 06:36] Used 6 units of ID 22
+[2025-12-16 06:36] Updated Stock for ID 22 (+6)

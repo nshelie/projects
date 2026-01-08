@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- DB CONFIG -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/student_career_path_recommendation_system__db</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">password123</property>
+
+        <!-- DEBUG: Show SQL in console -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+
+      <property name="hibernate.hbm2ddl.auto">update</property>
+
+
+        <!-- ENTITY MAPPINGS: Order matters for FK dependencies -->
+        <mapping class="model.User"/>
+        <mapping class="model.Subject"/>
+        <mapping class="model.CareerRole"/>
+        <mapping class="model.Student"/>
+        <mapping class="model.Performance"/>
+        <mapping class="model.Company"/>
+
+    </session-factory>
+</hibernate-configuration>

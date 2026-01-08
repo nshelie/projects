@@ -1,0 +1,13 @@
+[2025-12-16 04:14] Added Ingredient: carrot
+[2025-12-16 04:15] Updated Stock for ID 21 (+30)
+[2025-12-16 04:15] Used 30 units of ID 21
+[2025-12-16 04:20] Added Ingredient: tomato
+[2025-12-16 04:53] Used 10 units of ID 21
+[2025-12-16 04:53] Removed Ingredient ID 21
+[2025-12-16 04:59] Updated Stock for ID 22 (+20)
+[2025-12-16 04:59] Used 12 units of ID 22
+[2025-12-16 05:01] Removed Ingredient ID 22
+[2025-12-16 05:04] Added Ingredient: carrot (vegetable), Qty 30 at 200.00
+[2025-12-16 05:04] Updated Stock for ID 21 (+10)
+[2025-12-16 05:05] Added Ingredient: Tomato (vegetable), Qty 10 at 1100.00
+[2025-12-16 05:06] Removed Ingredient ID 22

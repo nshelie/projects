@@ -1,0 +1,18 @@
+[2025-12-16 02:49] Added Item: sdsd dsdc
+[2025-12-16 02:49] Updated item stock for ID 21 (+10)
+[2025-12-16 02:49] Sold 10 units of ID 21 (total 300.00)
+[2025-12-16 02:49] Sold 10 units of ID 21 with 13% discount
+[2025-12-16 03:21] Added Item: Techno Y2 TECHNO
+[2025-12-16 03:21] Removed Item ID 21
+[2025-12-16 03:21] Updated item stock for ID 22 (+20)
+[2025-12-16 03:22] Sold 20 units of ID 22 (total 600000.00)
+[2025-12-16 03:22] Sold 20 units of ID 22 with 20% discount
+[2025-12-16 05:45] Updated item stock for ID 22 (+20)
+[2025-12-16 05:54] Added Item: iPhone 11 iPhone, Qty 100 at 3000.00
+[2025-12-16 06:10] Added Item: Samsung galaxy samsung, Qty 20 at 200.00
+[2025-12-16 06:18] Removed Item ID 23
+[2025-12-16 06:18] Added Item: Samsung ga samsung, Qty 28 at 100.00
+[2025-12-16 06:18] Removed Item ID 23
+[2025-12-16 06:46] Updated item stock for ID 21 (+6)
+[2025-12-16 06:46] Sold 6 units of ID 21 (total 18000.00)
+[2025-12-16 06:46] Sold 6 units of ID 21 with 19% discount

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1765845629 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\data.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"data.h"
+
+1765834187 c:\users\elie\documents\final exam\mobilerepairshopinventory\data.h
+
+1765834187 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\listview.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"data.h"
+
+1765847896 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\main.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"resource.h"
+	"data.h"
+	"listview.h"
+
+1765847979 c:\users\elie\documents\final exam\mobilerepairshopinventory\resource.h
+
+1765834368 c:\users\elie\documents\final exam\mobilerepairshopinventory\listview.h
+	<windows.h>
+	<commctrl.h>
+
+1765847936 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\resource.rc
+	<windows.h>
+	"resource.h"
+
+1765845629 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\data.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"data.h"
+
+1765834187 c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\data.h
+
+1765834187 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\listview.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"data.h"
+
+1765858515 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\main.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"resource.h"
+	"data.h"
+	"listview.h"
+
+1765847979 c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\resource.h
+
+1765834368 c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\listview.h
+	<windows.h>
+	<commctrl.h>
+
+1765847936 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\new\mobilerepairshopinventory\resource.rc
+	<windows.h>
+	"resource.h"
+

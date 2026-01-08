@@ -1,0 +1,6 @@
+[2025-12-16 03:25] Added Item: Techno Y2 TECHNO
+[2025-12-16 06:55] Updated item stock for ID 22 (+11)
+[2025-12-16 06:55] Sold 11 units of ID 22 (total 330000.00)
+[2025-12-16 06:55] Sold 11 units of ID 22 with 12% discount
+[2025-12-16 06:56] Added Item: sdwewe ewewe, Qty 11 at 20.00
+[2025-12-16 06:56] Removed Item ID 23

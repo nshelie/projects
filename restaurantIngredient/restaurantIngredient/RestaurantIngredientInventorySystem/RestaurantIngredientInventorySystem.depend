@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1765849627 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\restaurantingredientinventorysystem\data.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"data.h"
+
+1765849596 c:\users\elie\documents\final exam\mobilerepairshopinventory\restaurantingredientinventorysystem\data.h
+
+1765849675 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\restaurantingredientinventorysystem\listview.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"data.h"
+
+1765850715 source:c:\users\elie\documents\final exam\mobilerepairshopinventory\restaurantingredientinventorysystem\resource.rc
+	<windows.h>
+	"resource.h"
+
+1765852078 c:\users\elie\documents\final exam\mobilerepairshopinventory\restaurantingredientinventorysystem\resource.h
+
